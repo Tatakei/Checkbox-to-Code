@@ -1,0 +1,16 @@
+C:\Users\Sascha\source\repos\Converter\Converter\bin\Debug\net8.0-windows\Converter.exe
+C:\Users\Sascha\source\repos\Converter\Converter\bin\Debug\net8.0-windows\Converter.deps.json
+C:\Users\Sascha\source\repos\Converter\Converter\bin\Debug\net8.0-windows\Converter.runtimeconfig.json
+C:\Users\Sascha\source\repos\Converter\Converter\bin\Debug\net8.0-windows\Converter.dll
+C:\Users\Sascha\source\repos\Converter\Converter\bin\Debug\net8.0-windows\Converter.pdb
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.Form1.resources
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.csproj.GenerateResource.cache
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.AssemblyInfoInputs.cache
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.AssemblyInfo.cs
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.dll
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\refint\Converter.dll
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.pdb
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\Converter.genruntimeconfig.cache
+C:\Users\Sascha\source\repos\Converter\Converter\obj\Debug\net8.0-windows\ref\Converter.dll
